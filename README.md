@@ -56,7 +56,7 @@ streamlit run app.py
 
 ## 📄 Documentation
 
-[Detailed Report & Setup Guide (PDF)](https://www.example.com/documentation.pdf)
+[Detailed Report & Setup Guide (PDF)](https://drive.google.com/file/d/1orQigGT2HnvAqOlzB5iXeQ98oKHM6p8t/view?usp=sharing)
 
 ## 🖼️ Screenshots
 
