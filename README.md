@@ -62,8 +62,8 @@ streamlit run app.py
 
 | Dashboard                   | Upload Section              | Result Output               |
 | --------------------------- | --------------------------- | --------------------------- |
-| ![Banner](images/icon1.png) | ![Upload](images/icon2.png) | ![Result](images/icon3.png) |
-
+| ![Banner](output/ui/intro.png) | ![Upload](output/ui/upload.png) | ![Result](output/result/result1.png) |
+| ![Feature](output/ui/feature.png) | ![Upload](output/result/inputData.png) | ![Result](output/result/result2.png) |
 ## 📁 Project Structure
 
 ```
