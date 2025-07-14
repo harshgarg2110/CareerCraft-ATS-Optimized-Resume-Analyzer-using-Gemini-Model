@@ -52,7 +52,7 @@ streamlit run app.py
 
 ## 🎥 Demo Video
 
-[Click to Watch](https://www.example.com/demo-video)
+[Click to Watch](https://drive.google.com/file/d/1lshz2xTg0vHCvF61sKaPlXIUX8--Vm49/view?usp=sharing)
 
 ## 📄 Documentation
 
@@ -81,4 +81,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-Made with ❤️ by \[Your Name]
+Made with ❤️ by \ Harsh Garg
